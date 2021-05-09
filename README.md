@@ -10,7 +10,7 @@ A few interesting projects i maintain:
 * [sbctl](https://github.com/Foxboron/sbctl) - Secure boot key manager
 * [go-uefi](https://github.com/Foxboron/go-uefi) - Pure Go API layer for UEFI
 * [home](https://github.com/Foxboron/home) - My dotfiles
-* A kernel.org [transparency log](https://tlog.linderud.dev/)
+* [https://tlog.linderud.dev](https://tlog.linderud.dev/) - A kernel.org transparency log monitor
 
 GPG Key: `gpg --auto-key-locate clear,wkd,dane --locate-external-key morten@linderud.pw`
 
