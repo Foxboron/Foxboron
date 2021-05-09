@@ -8,8 +8,9 @@ Team](https://wiki.archlinux.org/index.php/Arch_Security_Team) and [Reproducible
 A few interesting projects i maintain:
 * [archlinux-repro](https://github.com/archlinux/archlinux-repro) - reproduce Arch Linux packages in a distribution-agnostic and user-friendly way.
 * [sbctl](https://github.com/Foxboron/sbctl) - Secure boot key manager
-* [goefi](https://github.com/Foxboron/goefi) - Pure Go API layer for UEFI
+* [go-uefi](https://github.com/Foxboron/go-uefi) - Pure Go API layer for UEFI
 * [home](https://github.com/Foxboron/home) - My dotfiles
+* A kernel.org [transparency log](https://tlog.linderud.dev/)
 
 GPG Key: `gpg --auto-key-locate clear,wkd,dane --locate-external-key morten@linderud.pw`
 
